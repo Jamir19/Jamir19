@@ -5,7 +5,7 @@
 💻 Desenvolvedor Web com foco em HTML, CSS, JavaScript e Node.js  
 🧠 Atualmente estudando linguagem C e com projetos em Java  
 🛠️ Técnico de Segurança do Trabalho  
-🚀 Em transição de carreira e construindo projetos reais
+🚀 Construindo projetos reais
 
 ---
 
