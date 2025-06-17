@@ -1,16 +1,41 @@
-### Hi there 👋
+## 👋 Olá, eu sou o Jamir Gustavo
 
-<div align="center">
-  <a href="https://github.com/Jamir19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jamir19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamir19&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-   <div style="display: inline_block"><br>
- 
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     </div>
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🎓 Cursando Engenharia de Software (UniCesumar)  
+💻 Desenvolvedor Web com foco em HTML, CSS, JavaScript e Node.js  
+🧠 Atualmente estudando linguagem C e com projetos em Java  
+🛠️ Técnico de Segurança do Trabalho  
+🚀 Em transição de carreira e construindo projetos reais
+
+---
+
+### 📈 Estatísticas do GitHub
+
+![Jamir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jamir19&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamir19&layout=compact&theme=radical)
+
+---
+
+### 🧰 Tecnologias que uso
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff)
+
+---
+
+### 🔥 Contribuições
+
+![GitHub Snake animation](https://github.com/Jamir19/Jamir19/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Contato
+
+Entre em contato por e-mail: jamirgustavo23@gmail.com  
+Veja meus projetos no GitHub: [Jamir19](https://github.com/Jamir19)
