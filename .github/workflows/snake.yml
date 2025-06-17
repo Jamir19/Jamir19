@@ -23,6 +23,4 @@ jobs:
           author_email: github-actions@github.com
           message: "gerando contribuição snake 🐍"
           add: "dist/*.svg"
-### 🔥 Contribuições
 
-![GitHub Snake animation](https://raw.githubusercontent.com/Jamir19/Jamir19/output/github-contribution-grid-snake.svg)
