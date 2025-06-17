@@ -31,9 +31,7 @@
 
 ### 🔥 Contribuições
 
-![GitHub Snake animation](https://github.com/Jamir19/Jamir19/blob/output/github-contribution-grid-snake.svg)
-
----
+![GitHub Snake animation](https://raw.githubusercontent.com/Jamir19/Jamir19/output/github-contribution-grid-snake.svg)
 
 ### 📫 Contato
 
